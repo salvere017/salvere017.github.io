@@ -31,15 +31,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ACGN zone
-subtitle: 
+subtitle: ???
 description: >- # this means to ignore newlines until "baseurl:"
-  ちょっと考えて見る.
+  ???
 author: Necessarius.Salvere017
 email: Salvere017@hotmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "salvere017.github.io/blog" # the subpath of your site, e.g. /blog
 url: "salvere017.github.io" # the base hostname & protocol for your site
 
 # Social settings
