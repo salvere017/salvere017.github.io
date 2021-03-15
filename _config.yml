@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ACGN ZONE
-subtitle: 陰陽布統 方洲疏成 贊上群綱 九九數生
+subtitle: 陰陽一統極數方生
 description: >- # this means to ignore newlines until "baseurl:"
   关于阿B和知乎的专栏都太傻逼了所以被迫自己开了一个blog的这件事
 author: Necessarius.Salvere017
