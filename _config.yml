@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   关于阿B和知乎的专栏都太傻逼了所以被迫自己开了一个blog的这件事
 author: Necessarius.Salvere017
 email: Salvere017@hotmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar3.gif
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
